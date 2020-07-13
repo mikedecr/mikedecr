@@ -1,4 +1,11 @@
-### Hi there 👋
+## About Me
+
+I am a political science PhD student at the University of Wisconsin-Madison.
+
+I work on methods that mix some combination of Bayesian modeling, causal inference, and (sometimes, increasingly, getting there) machine learning.
+I use these tools to study U.S. public opinion, voting, and election administration.
+
+
 
 <!--
 **mikedecr/mikedecr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
