@@ -1,7 +1,6 @@
 ## About Me
 
-I am a quantitative trading researcher at DRW Holdings, which means I do stats to figure out what financial markets are doing.
-
+I am a quantitative researcher at DRW Holdings, which means I do statistical modeling of financial market data.
 My expertise is in Bayesian methods for generative and predictive modeling.
 
 I hold a PhD in political science from the University of Wisconsin–Madison. 
