@@ -1,7 +1,6 @@
-## About Me
+## Michael DeCrescenzo (@mikedecr)
 
-I am a quantitative researcher at DRW Holdings, which means I do statistical modeling of financial market data.
-My expertise is in Bayesian methods for generative and predictive modeling.
+I am a quantitative researcher working in high-frequency trading.
+I use statistics, machine learning, and other high-powered computing tools to analyze financial markets and develop trading strategies that go very fast.
 
-I hold a PhD in political science from the University of Wisconsin–Madison. 
-My political science work combines Bayesian modeling and causal inference to study elections and public opinion in the United States, with projects on congressional primary elections, the gender voting gap, voter identification requirements, and the communication of polls and election forecasts.
+I hold a PhD in political science from the University of Wisconsin–Madison, where I worked on Bayesian modeling for measurement and causal inference to study U.S. elections and public opinion.
