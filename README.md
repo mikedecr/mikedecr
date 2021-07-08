@@ -8,6 +8,6 @@ I hold a PhD in political science from the University of Wisconsin–Madison, wh
 This site contains:
 
 - archives of open-souce graduate work
-- teaching resources for courses I used to teach
+- notes/code for courses I used to teach
 - text-based config files and other helpful scripts for managing my digital life
 - other fun extracurricular projects
