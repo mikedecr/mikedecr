@@ -1,7 +1,7 @@
 ## Michael DeCrescenzo (@mikedecr)
 
-I am a quantitative researcher working in high-frequency trading.
-I use statistics, machine learning, and other high-powered computing tools to analyze financial markets and develop trading strategies that go very fast.
+I am a quantitative researcher working in finance.
+I use statistics, machine learning, and other high-powered computing tools to develop trading strategies that go very fast.
 
 This site contains:
 
