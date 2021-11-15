@@ -1,6 +1,6 @@
 ## Michael DeCrescenzo (@mikedecr)
 
-I do statistics & software development in high-frequency trading.
+I work on statistics & software development in quantitative finance.
 
 This site contains:
 
