@@ -1,13 +1,13 @@
 ## Michael DeCrescenzo (@mikedecr)
 
-I work on statistical research & software development in high-frequency/low-latency trading.
+I do statistical research & software development for automated, low-latency trading.
 
-This profile contains:
+This Github profile contains:
 
-- extracurricular projects (website, blog posts...)
-- archives of open-souce graduate work (I have a PhD in political science)
-- notes + code for courses I taught in the past
-- configs and other helpful scripts for managing digital life
+- extracurricular projects (website, blog posts, etc.)
+- open-souce academic research repositories (I have a PhD in political science)
+- notes + code for university courses I have taught over the years
+- configs and other helpful scripts for managing my digital life
 
 <!--
 Comfortable with: 
