@@ -1,7 +1,5 @@
 ## Michael DeCrescenzo (@mikedecr)
 
-I do statistical research & software development for automated, low-latency trading.
-
 This Github profile contains:
 
 - extracurricular projects (website, blog posts, etc.)
