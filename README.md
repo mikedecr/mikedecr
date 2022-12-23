@@ -1,5 +1,7 @@
 ## Michael DeCrescenzo (@mikedecr)
 
+Former political scientist, now working on stats and software for low-latency automated trading.
+
 Here you will find:
 
 - extracurricular projects (website, blog posts, etc.)
